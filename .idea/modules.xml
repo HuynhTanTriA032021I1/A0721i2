@@ -3,10 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/A0721i2.iml" filepath="$PROJECT_DIR$/.idea/A0721i2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B10_DSA_DanhSach/B10_DSA_DanhSach.iml" filepath="$PROJECT_DIR$/B10_DSA_DanhSach/B10_DSA_DanhSach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B11_DSA_StackQueue/B11_DSA_StackQueue.iml" filepath="$PROJECT_DIR$/B11_DSA_StackQueue/B11_DSA_StackQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B12_JavaCollectionFramework/B12_JavaCollectionFramework.iml" filepath="$PROJECT_DIR$/B12_JavaCollectionFramework/B12_JavaCollectionFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/B1_Introduction_to_Java/B1_Introduction_to_Java.iml" filepath="$PROJECT_DIR$/B1_Introduction_to_Java/B1_Introduction_to_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/B2_VongLapTrongJava/B2_VongLapTrongJava.iml" filepath="$PROJECT_DIR$/B2_VongLapTrongJava/B2_VongLapTrongJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/B3_MangVaPhuongThucTrongJava/B3_MangVaPhuongThucTrongJava.iml" filepath="$PROJECT_DIR$/B3_MangVaPhuongThucTrongJava/B3_MangVaPhuongThucTrongJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/B4_LopVaDoiTuongTrongJava/B4_LopVaDoiTuongTrongJava.iml" filepath="$PROJECT_DIR$/B4_LopVaDoiTuongTrongJava/B4_LopVaDoiTuongTrongJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B5_AccessModifier_SataticMethod_StaticProperty/B5_AccessModifier_SataticMethod_StaticProperty.iml" filepath="$PROJECT_DIR$/B5_AccessModifier_SataticMethod_StaticProperty/B5_AccessModifier_SataticMethod_StaticProperty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B6_KeThua/B6_KeThua.iml" filepath="$PROJECT_DIR$/B6_KeThua/B6_KeThua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B7_AbstractClass&amp;Interface/B7_AbstractClass&amp;Interface.iml" filepath="$PROJECT_DIR$/B7_AbstractClass&amp;Interface/B7_AbstractClass&amp;Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B8_CleanCode&amp;Refactoring/B8_CleanCode&amp;Refactoring.iml" filepath="$PROJECT_DIR$/B8_CleanCode&amp;Refactoring/B8_CleanCode&amp;Refactoring.iml" />
     </modules>
   </component>
 </project>
