@@ -6,6 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/B10_DSA_DanhSach/B10_DSA_DanhSach.iml" filepath="$PROJECT_DIR$/B10_DSA_DanhSach/B10_DSA_DanhSach.iml" />
       <module fileurl="file://$PROJECT_DIR$/B11_DSA_StackQueue/B11_DSA_StackQueue.iml" filepath="$PROJECT_DIR$/B11_DSA_StackQueue/B11_DSA_StackQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/B12_JavaCollectionFramework/B12_JavaCollectionFramework.iml" filepath="$PROJECT_DIR$/B12_JavaCollectionFramework/B12_JavaCollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B13_ThuatToanTimKiem/B13_ThuatToanTimKiem.iml" filepath="$PROJECT_DIR$/B13_ThuatToanTimKiem/B13_ThuatToanTimKiem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B14_ThuatToanSapXep/B14_ThuatToanSapXep.iml" filepath="$PROJECT_DIR$/B14_ThuatToanSapXep/B14_ThuatToanSapXep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B15_XuLyNgoaiLe&amp;Debug/B15_XuLyNgoaiLe&amp;Debug.iml" filepath="$PROJECT_DIR$/B15_XuLyNgoaiLe&amp;Debug/B15_XuLyNgoaiLe&amp;Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B16_IOTestFile/B16_IOTestFile.iml" filepath="$PROJECT_DIR$/B16_IOTestFile/B16_IOTestFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B17_IOBinaryFile&amp;Serialization/B17_IOBinaryFile&amp;Serialization.iml" filepath="$PROJECT_DIR$/B17_IOBinaryFile&amp;Serialization/B17_IOBinaryFile&amp;Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B19_String&amp;Regex/B19_String&amp;Regex.iml" filepath="$PROJECT_DIR$/B19_String&amp;Regex/B19_String&amp;Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/B1_Introduction_to_Java/B1_Introduction_to_Java.iml" filepath="$PROJECT_DIR$/B1_Introduction_to_Java/B1_Introduction_to_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/B2_VongLapTrongJava/B2_VongLapTrongJava.iml" filepath="$PROJECT_DIR$/B2_VongLapTrongJava/B2_VongLapTrongJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/B3_MangVaPhuongThucTrongJava/B3_MangVaPhuongThucTrongJava.iml" filepath="$PROJECT_DIR$/B3_MangVaPhuongThucTrongJava/B3_MangVaPhuongThucTrongJava.iml" />
@@ -14,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/B6_KeThua/B6_KeThua.iml" filepath="$PROJECT_DIR$/B6_KeThua/B6_KeThua.iml" />
       <module fileurl="file://$PROJECT_DIR$/B7_AbstractClass&amp;Interface/B7_AbstractClass&amp;Interface.iml" filepath="$PROJECT_DIR$/B7_AbstractClass&amp;Interface/B7_AbstractClass&amp;Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/B8_CleanCode&amp;Refactoring/B8_CleanCode&amp;Refactoring.iml" filepath="$PROJECT_DIR$/B8_CleanCode&amp;Refactoring/B8_CleanCode&amp;Refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CASE_STUDY/CASE_STUDY.iml" filepath="$PROJECT_DIR$/CASE_STUDY/CASE_STUDY.iml" />
     </modules>
   </component>
 </project>
